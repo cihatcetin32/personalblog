@@ -22,7 +22,7 @@ app.use(indexroutes);
 
 //SERVER OLUŞTURMA
 
-var server = app.listen (3000, (err)=> { 
+var server = app.listen (5000, (err)=> { 
     if (err) { 
     console.log("err"); 
      } 
