@@ -2,7 +2,7 @@
 
 var mongoose = require("mongoose"), 
 
-    express = require("express"), 
+    express = require("Express"), 
 
     app = express();                                    // express methodunu çağırıp hepsine app olarak ulaştık.
 
